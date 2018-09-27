@@ -1,0 +1,43 @@
+{
+    "app": {
+        "isFetching": false,
+        "error": ""
+    },
+    "movies": {
+        "byId": {
+            "251499": {
+                "actorName1": "郑伊健",
+                "actorName2": "陈小春",
+                "btnText": "",
+                "commonSpecial": "郑伊健陈小春兄弟情义遭遇挑战",
+                "directorName": "钱嘉乐",
+                "img": "http://img5.mtime.cn/mt/2018/09/23/093144.31816855_1280X720X2.jpg",
+                "is3D": false,
+                "isDMAX": true,
+                "isFilter": false,
+                "isHot": false,
+                "isIMAX": true,
+                "isIMAX3D": false,
+                "isNew": false,
+                "length": 99,
+                "movieId": 251499,
+                "nearestShowtime": {
+                    "isTicket": true,
+                    "nearestCinemaCount": 129,
+                    "nearestShowDay": 1538035200,
+                    "nearestShowtimeCount": 1215
+                },
+                "preferentialFlag": false,
+                "rDay": 21,
+                "rMonth": 9,
+                "rYear": 2018,
+                "ratingFinal": 6.1,
+                "titleCn": "黄金兄弟",
+                "titleEn": "Golden Job",
+                "type": "动作 / 犯罪",
+                "wantedCount": 826
+            }
+        },
+        "allIds": [251499]
+    }
+}
